@@ -1,0 +1,15 @@
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/almaz_nizamov/Learn_Microsoft_C-/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
