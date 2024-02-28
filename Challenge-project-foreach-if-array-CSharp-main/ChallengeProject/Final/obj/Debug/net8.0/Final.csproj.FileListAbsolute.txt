@@ -1,0 +1,14 @@
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/almaz_nizamov/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll
