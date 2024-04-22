@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/almaz_nizamov/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/Users/almaz_nizamov/С#_Projects/Learn_Microsoft_C-/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/Users/almaz_nizamov/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectPath": "/Users/almaz_nizamov/С#_Projects/Learn_Microsoft_C-/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/Users/almaz_nizamov/.nuget/packages/",
-      "outputPath": "/Users/almaz_nizamov/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/Users/almaz_nizamov/С#_Projects/Learn_Microsoft_C-/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/almaz_nizamov/.nuget/NuGet/NuGet.Config"
