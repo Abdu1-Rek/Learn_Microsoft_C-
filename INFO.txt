@@ -53,3 +53,9 @@ C# type keyword	        .NET type
 object	                System.Object
 string	                System.String
 dynamic	                System.Object
+
+Array:
+- Array.Clear(name, index, count);
+- Array.Reverse(name, count);
+- Array.Sort(name);
+- 
