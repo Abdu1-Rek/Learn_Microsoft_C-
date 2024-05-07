@@ -58,4 +58,3 @@ Array:
 - Array.Clear(name, index, count);
 - Array.Reverse(name, count);
 - Array.Sort(name);
-- 
